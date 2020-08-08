@@ -1,4 +1,5 @@
-<img src="/Rahul_github_image.jpg">
+
+![Github hello image](https://github.com/heyrahull/heyrahull/blob/master/Rahul_github_image.jpg?raw=true)
 
 Hello! I am a Self-taught Programmer, Computer Science Junior, Reader and a thinker,
 an avid learner and a Salesforce enthusiast from India!

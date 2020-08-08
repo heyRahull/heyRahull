@@ -1,4 +1,4 @@
-<img src="./Rahul_github_image.jpg">
+<img src="/Rahul_github_image.jpg">
 
 Hello! I am a Self-taught Programmer, Computer Science Junior, Reader and a thinker,
 an avid learner and a Salesforce enthusiast from India!

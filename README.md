@@ -1,7 +1,7 @@
-![Github hello image](https://github.com/heyrahull/heyrahull/blob/master/Rahul_github_image.jpg?raw=true)
-
 <h1 align="center">Hi 👋, I'm Rahul Agarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+![Github hello image](https://github.com/heyrahull/heyrahull/blob/master/Rahul_github_image.jpg?raw=true)
 
 - 👨‍💻 All of my projects are available at [https://rahul-agarwal-portfolio.netlify.app/](https://rahul-agarwal-portfolio.netlify.app/)
 
